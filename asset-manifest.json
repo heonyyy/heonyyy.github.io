@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://heonyyy.github.io/react project/static/css/main.2d9dd639.css",
-    "main.js": "https://heonyyy.github.io/react project/static/js/main.937bb8e4.js",
-    "static/js/453.ed3810f9.chunk.js": "https://heonyyy.github.io/react project/static/js/453.ed3810f9.chunk.js",
-    "static/media/MainVideo.mp4": "https://heonyyy.github.io/react project/static/media/MainVideo.e60eb4496150adf348cc.mp4",
-    "index.html": "https://heonyyy.github.io/react project/index.html",
-    "main.2d9dd639.css.map": "https://heonyyy.github.io/react project/static/css/main.2d9dd639.css.map",
-    "main.937bb8e4.js.map": "https://heonyyy.github.io/react project/static/js/main.937bb8e4.js.map",
-    "453.ed3810f9.chunk.js.map": "https://heonyyy.github.io/react project/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "https://heonyyy.github.io/my-app/static/css/main.2d9dd639.css",
+    "main.js": "https://heonyyy.github.io/my-app/static/js/main.bc3bf479.js",
+    "static/js/453.ed3810f9.chunk.js": "https://heonyyy.github.io/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/MainVideo.mp4": "https://heonyyy.github.io/my-app/static/media/MainVideo.e60eb4496150adf348cc.mp4",
+    "index.html": "https://heonyyy.github.io/my-app/index.html",
+    "main.2d9dd639.css.map": "https://heonyyy.github.io/my-app/static/css/main.2d9dd639.css.map",
+    "main.bc3bf479.js.map": "https://heonyyy.github.io/my-app/static/js/main.bc3bf479.js.map",
+    "453.ed3810f9.chunk.js.map": "https://heonyyy.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9dd639.css",
-    "static/js/main.937bb8e4.js"
+    "static/js/main.bc3bf479.js"
   ]
 }
